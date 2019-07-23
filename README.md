@@ -15,7 +15,6 @@ org.bouncycastle
 ## Python Script
 
 Usage: `python3 mremoteng_decrypt.py [-f FILE | -s STRING] [-p CUSTOM_PASSWORD]`
+## Dependancies likely missing
+sudo pip install pycryptodomex
 
-## Where's the file?
-
-Carefully check the page.
